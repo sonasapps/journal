@@ -50,12 +50,12 @@ features                                  :
     description                           : Built for ease of use and simple navigation.
     fontawesome_icon_name                 : thumbs-up
 
-  - title                                 : Unlimited Entries
-    description                           : Create an ulimited amount of food entries, for any type.
-    fontawesome_icon_name                 : utensils
+  - title                                 : Encouraging Quotes
+    description                           : Be inspired by a new quote with each new entry
+    fontawesome_icon_name                 : quote-right
   
   - title                                 : Favorites View
-    description                           : Not all meals are created equal -- easily find your favorites.
+    description                           : Easily find your favorite entries.
     fontawesome_icon_name                 : star
 
   - title                                 : No Ads
@@ -98,7 +98,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#fb7246"
+feature_icons_foreground_color            : "#5FD9F0"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
