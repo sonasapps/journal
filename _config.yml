@@ -34,8 +34,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : For food lovers
-    description                           : Professionals and new cooks alike can benefit from tracking food creations.
+  - title                                 : Sonas
+    description                           : An Irish word meaning happiness, joy, or well-being
     fontawesome_icon_name                 : heart
     
   - title                                 : iPhone Exclusive
